@@ -22,8 +22,8 @@ title: endbloke
 email: endbloke@bloke.end
 description: >- # this means to ignore newlines until "baseurl:"
   Mostly fun
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /portfolio # the subpath of your site, e.g. /blog
+url: https://endbloke.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: endbloke
 github_username:  endbloke
 
