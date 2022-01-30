@@ -30,3 +30,7 @@ Global Game Jam 2022
 30th January 2022
 
 Written in HTML, CSS and JavaScript (no frameworks used)
+
+<a href="https://jacksorjacksor.itch.io/polyrhythm-hero/" target="_blank">
+Play "Polyrhythm Hero" here
+</a>
