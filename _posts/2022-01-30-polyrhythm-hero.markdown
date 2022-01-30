@@ -5,7 +5,9 @@ date: 2022-01-30 21:01:00 +0000
 categories: update
 ---
 
-[polyrhythm hero]: https://jacksorjacksor.itch.io/polyrhythm-hero
+<a href="https://jacksorjacksor.itch.io/polyrhythm-hero/" target="_blank">
+<img src="{{site.baseurl}}/assets/img/polyrhythm-hero.png" alt="image for Polyrhythm Hero">
+</a>
 
 An online rhythm game to practice polyrhythms through maintaining two separate rhythms.
 
